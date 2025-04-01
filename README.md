@@ -3,7 +3,7 @@
 Soy un Data Analyst con 1 año de experiencia explorando, analizando y visualizando datos para generar insights valiosos que ayuden a la toma de decisiones. Trabajo con herramientas como SQL, Python, Power BI creando dashboards interactivos y optimizando procesos de datos.
 Me apasiona descubrir patrones en los datos, mejorar la eficiencia en consultas SQL y aprender nuevas herramientas para análisis y automatización. También disfruto de un buen café mientras exploro datasets. ☕📊
 </p>
-## Habilidades y lenguajes:
+### Habilidades y lenguajes:
 
 ### Lenguajes:
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,sql&perline=4)](https://skillicons.dev)
