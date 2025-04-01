@@ -1,4 +1,8 @@
 <h1 align="center"><b>Hola, soy Helger Santiago</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p>
+Soy un Data Analyst con 1 año de experiencia explorando, analizando y visualizando datos para generar insights valiosos que ayuden a la toma de decisiones. Trabajo con herramientas como SQL, Python, Power BI creando dashboards interactivos y optimizando procesos de datos.
+Me apasiona descubrir patrones en los datos, mejorar la eficiencia en consultas SQL y aprender nuevas herramientas para análisis y automatización. También disfruto de un buen café mientras exploro datasets. ☕📊
+</p>
 <!--
 **SePuLvEdA22/SePuLvEdA22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
