@@ -6,8 +6,8 @@ Me apasiona descubrir patrones en los datos, mejorar la eficiencia en consultas 
 ### Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,sql&perline=4)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,sql,php&perline=4)](https://skillicons.dev)
+  
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github,kali,postgres&perline=9)](https://skillicons.dev)
 
