@@ -5,7 +5,7 @@
 ### Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,php,sql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,php,flutter,sql&perline=4)](https://skillicons.dev)
   
 ### Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=git,github,kali,postgres&perline=9)](https://skillicons.dev)
