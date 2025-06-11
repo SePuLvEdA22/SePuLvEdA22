@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Helger Santiago</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p>
-🎯 Tecnólogo en Análisis y Desarrollo de Software con experiencia en Python, Flutter y soporte IT.
+🎯 Tecnólogo en Análisis y Desarrollo de Software con experiencia en Python, Flutter y soporte IT. <br>
 🔧 He trabajado en automatización de procesos, desarrollo de scripts, resolución de incidencias técnicas y visualización de datos.
 🛡️ Conocimientos en ciberseguridad, documentación de procesos y buenas prácticas como controles SOX.
 📊 Familiarizado con herramientas como PostgreSQL, Power BI, Nmap, Metasploit y GLPI.
