@@ -13,7 +13,7 @@
 ### Skills and Languages:
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,php,dart,sql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,php,dart,sql&perline=9)](https://skillicons.dev)
   
 ### Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=git,github,kali,flutter,postgres&perline=9)](https://skillicons.dev)
