@@ -13,13 +13,10 @@
 ### Skills and Languages:
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,php,dart,sql&perline=9)](https://skillicons.dev)
-  
-### Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=git,github,kali,flutter,postgres&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,javascript,bash,php,dart,java,flutter,postgres,sql&perline=9)](https://skillicons.dev)
 
 ### Software and Tools:
-[![My Skills](https://skillicons.dev/icons?i=obsidian,postman,pycharm,vscode,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,postman,pycharm,vscode,git,github,kali&perline=9)](https://skillicons.dev)
 
 <h2>Contacto:</h2>
 <a href="mailto:hj.santiago.sepulveda@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hj.santiago.sepulveda@gmail.com-blue?style=flat-square&logo=gmail"></a>
