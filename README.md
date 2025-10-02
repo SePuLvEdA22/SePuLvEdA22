@@ -19,9 +19,11 @@
 - [**Portfolio Web (React/Next.js)**](https://github.com/SePuLvEdA22/portfolio)  
   Interactive portfolio simulating Windows XP with **React, Tailwind CSS, and Next.js**.  
 
-- [**Chatbot Client Support (Python)**](https://github.com/SePuLvEdA22/chatbot)  
-  Automated assistant for customer service in event company using Python.  
+- [**API Store (Python + FastAPI)**](https://github.com/SePuLvEdA22/store_api)  
+  REST API for a store system built with **Python and FastAPI/Flask**.  
 
+- [**Movies API (JavaScript + Node.js/Express)**](https://github.com/SePuLvEdA22/movies-api)  
+  RESTful API to manage movies built with **JavaScript, Node.js, and Express**.
 ---
 
 ## 🛠 Skills
@@ -58,7 +60,6 @@
 
 - ✉️ [Email](mailto:hj.santiago.sepulveda@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/helgersantiago)  
-- 🌐 [Portfolio](https://helgersantiago.dev)  
 
 ---
 ✨ Thanks for visiting my profile! Feel free to explore my projects and connect with me. 🚀
