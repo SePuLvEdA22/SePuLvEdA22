@@ -16,7 +16,7 @@
 - [**Data Augmentation (Python)**](https://github.com/SePuLvEdA22/data-augmentation)  
   Script to apply augmentation techniques on temporal datasets using **Pandas, Numpy, Matplotlib** and dynamic configs with JSON.  
 
-- [**Portfolio Web (React/Next.js)**](https://github.com/SePuLvEdA22/portfolio)  
+- [**Portfolio Web (React)**](https://github.com/SePuLvEdA22/portfolio)  
   Interactive portfolio simulating Windows XP with **React, Tailwind CSS, and Next.js**.  
 
 - [**API Store (Python + FastAPI)**](https://github.com/SePuLvEdA22/store_api)  
